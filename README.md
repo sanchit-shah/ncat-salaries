@@ -1,0 +1,4 @@
+# ncat-salaries
+A project which uses standard Python libraries such as numpy, pandas, matplotlib, seaborn, and sklearn to perform data analysis and machine learning supervised learning on the NC A&amp;T salaries database. 
+
+NC A&T is the nation's largest HBCU with specialized programs in engineering, agriculture, health sciences, humanities, and more. With over 50 undergraduate majors and several graduate programs, NC A&T University plays an important role in education within the state of NC. This project aims to analyze salary differences based on various factors such as age, years of experience, university department, college/school, academic department, and more. Finally, this project creates a machine learning model to predict salary based on the given factors and simulates the accuracy of the model.
